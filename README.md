@@ -9,3 +9,5 @@ This project contains JavaScript exercises and examples for learning the basics 
 ## Purpose
 
 To practice and demonstrate fundamental JavaScript concepts.
+
+JavaScript is amazing
